@@ -1,0 +1,7 @@
+# Reject all files
+*.sh
+*.txt
+
+# ...Except for the script itself:
+!fresh.sh
+
